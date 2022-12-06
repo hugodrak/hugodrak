@@ -5,25 +5,12 @@
 
 <h3>Things I Code With:</h3>
 
-<a target="_blank" href="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square-for-the-badge&logo=html5&logoColor=white"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/CSS3-1572B6?style=flat-square-for-the-badge&logo=css3&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square-for-the-badge&logo=css3&logoColor=white"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square-for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square-for-the-badge&logo=python&logoColor=blue"/>
-</a>
-
-<a target="_blank" href="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" rel="noopener noreferrer nofollow">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square-for-the-badge&logo=flask&logoColor=white"/>
-</a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 <h3>🚀 Quick Stats</h3>
 
