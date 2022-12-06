@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @hugodrak
-- 👀 I’m interested in ... alot of things, but Graph theory, machine learning and Optimizing python is really interesting to me.
-- 🌱 I’m currently learning Haskell!
+Hi There! I'm Hugo
+---
+Welcome to my page!
 
-<!---
-hugodrak/hugodrak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Engineer from Gothenburg, Sweden. Currently living in Seoul, South Korea 
