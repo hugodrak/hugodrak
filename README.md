@@ -1,7 +1,7 @@
 ### <h1 style="border-bottom: 1px solid gray"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Hi There! I'm Hugo </h1>
 
 <p>Welcome to my page!</p>
-<p>I'm a Software Engineer from Gothenburg, Sweden. Currently living in Seoul, South Korea </p>
+<p>I'm a Software Engineer from Gothenburg, Sweden.</p>
 
 <h3>Things I Code With:</h3>
 
