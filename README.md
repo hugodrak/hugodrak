@@ -20,3 +20,5 @@
 <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=hugodrak&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff&layout=compact">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugodrak&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff&layout=compact" width="350"/>
 </a>
+[![](https://visitcount.itsvg.in/api?id=riteshpal1&icon=0&color=0)](https://visitcount.itsvg.in)
+
