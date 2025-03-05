@@ -5,17 +5,9 @@
 <h3>Things I Code With:</h3>
 
 ![Python3](https://img.shields.io/badge/python3-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![C++](https://img.shields.io/badge/cpp-%23white.svg?style=for-the-badge&logo=cpp&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-EEEEEE?style=for-the-badge&logo=ros&logoColor=22314E)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<h3>🚀 Quick Stats</h3>
 
-<a target="_blank" href="https://github-readme-stats.vercel.app/api?username=hugodrak&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugodrak&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff" width="420"/>
-</a>
-<a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=hugodrak&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff&layout=compact">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugodrak&show_icons=true&bg_color=310,355c7d,6c5b7b,c06c84&title_color=fff&text_color=fff&icon_color=fff&layout=compact" width="350"/>
-</a>
+<ul> <li>Expert knowledge in Python, C, and C++</li> <li>Embedded systems & real-time software</li> <li>Modern DevOps & CI/CD</li> <li>AI/ML integration for high-performance solutions</li> <li>Expertise in electronic warfare & radar systems</li> <li>Data analysis & risk assessment</li> </ul>
