@@ -1,7 +1,6 @@
 ### <h1 style="border-bottom: 1px solid gray"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> Hi There! I'm Hugo </h1>
 
-<p>Welcome to my page!</p>
-<p>I'm a Software Engineer from Gothenburg, Sweden.</p>
+<p>Hey, I'm Hugo. I don't do average—I build what others only talk about. My toolbox includes Python, C, C++, embedded systems, modern DevOps, and AI. This repo is where I turn complex challenges into tangible solutions. If you're here to see real tech in action, welcome aboard.</p>
 
 <h3>Things I Code With:</h3>
 
