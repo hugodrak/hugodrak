@@ -5,10 +5,10 @@
   Hi there, I'm Hugo!
 </h1>
 
-**PhD Candidate | AI Enthusiast | Elite Coder**  
+**PhD Candidate | AI Enthusiast**  
 **Systems & Embedded Expert | Modern DevOps & CI/CD**
 
-I don’t do average—I build what others only talk about. My toolbox spans **Python**, **C**, **C++**, **Rust**, **ROS**, advanced **AI/ML**, and **embedded systems**. Here you’ll find projects demonstrating my expertise across a range of cutting-edge domains. If you’re here to see real tech in action, welcome aboard.
+I build what others only talk about. My toolbox spans **Python**, **C**, **C++**, **Rust**, **ROS**, advanced **AI/ML**, and **embedded systems**. Here you’ll find projects demonstrating my expertise across a range of cutting-edge domains. If you’re here to see real tech in action, welcome aboard.
 
 ---
 
